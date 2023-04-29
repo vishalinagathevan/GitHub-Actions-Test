@@ -19,4 +19,4 @@ print("This is sample test for GITHUB Actions")
 Welcome()
 ```
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+The background color is `#0969DA` for light mode and `rgb(9, 105, 218)` for dark mode.
