@@ -28,6 +28,7 @@ git add
 git commit -m "message"
 git push
 ```
+This site was built using [Image](https://lthub.ubc.ca/guides/github-instructor-guide/)
 
 
 
