@@ -28,7 +28,7 @@ git add
 git commit -m "message"
 git push
 ```
-This site was built using [Image](https://lthub.ubc.ca/guides/github-instructor-guide/)
+This site was built using [Image](![Screenshot 2023-06-08 091031](https://github.com/vishalinagathevan/GitHub-Actions-Test/assets/126974938/b88279a0-a794-412b-b624-58e0fd5e5512))
 
 
 
